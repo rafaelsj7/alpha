@@ -6,6 +6,7 @@ public class Main {
 		Pessoa p = new Pessoa();
 		p.setNome("John");
 		System.out.println("Hello " + p.getNome() + "!!!");
+		Animal animal = new Animal();
 	}
 
 }

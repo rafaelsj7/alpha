@@ -7,7 +7,7 @@ public class Main {
 		p.setNome("John");
 		Animal cachorro = new Animal();
 		p.setPet(cachorro);
-		System.out.println("Hello " + p.getNome() + "!!!");
+		System.out.println("Hello World!!!");
 	}
 
 }
